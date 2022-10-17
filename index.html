@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <span>LISTA DE AFAZERES</span> <br> <br>
+        <span>Insira texto no campo de entrada para adicionar itens à sua lista;</span> <br>
+        <span>Clique no item para marcar a atividade como concluída;</span> <br>
+        <span>Clique no "-" para remover o item.</span>
+    </header>
+    <div class="div" id="input"><input type="text" id="inputText"><button onclick="addItem()">+</button></div>
+    <div class="div" id="list"><button onclick="removeAll()">remover tudo</button></div>
+    <footer><span>&copy; whoslv_</span></footer>
+</body>
+<script src="./script.js"></script>
+</html>
