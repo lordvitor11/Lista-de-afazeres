@@ -1,7 +1,7 @@
 # Lista-de-afazeres
 Lista de afazeres feito com HTML, CSS &amp; JS
 
-[preview]()
+[preview](https://user-images.githubusercontent.com/65216891/196080189-fcccebd5-718f-40f3-a0ea-29752f957769.mp4)
 
 ## Tecnologias usadas:
 <div style="display: inline_block">
