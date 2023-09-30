@@ -3,6 +3,8 @@ Lista de afazeres feito com HTML, CSS &amp; JS
 
 [preview](https://user-images.githubusercontent.com/65216891/196080189-fcccebd5-718f-40f3-a0ea-29752f957769.mp4)
 
+><a href="https://lordvitor11.github.io/Lista-de-afazeres/" target="_blank">Acesse aqui!</a>
+
 ## Tecnologias usadas:
 <div style="display: inline_block">
     <img title="HTML5" align="center" alt="LV-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
